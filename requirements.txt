@@ -7,6 +7,8 @@ click==8.4.2
 colorama==0.4.6
 ddgs==9.14.4
 python-dotenv==1.2.2
+python-telegram-bot==22.8
+deep-translator==1.11.4
 duckduckgo_search==8.1.1
 fake-useragent==2.2.0
 filelock==3.32.2
